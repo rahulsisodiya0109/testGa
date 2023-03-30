@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T17:50:19 IST" name="Default suite" finished-at="2023-02-28T17:51:22 IST" duration-ms="62820">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T17:50:19 IST" name="Default test" finished-at="2023-02-28T17:51:22 IST" duration-ms="62820">
+      <class name="dummy.Test1">
+        <test-method is-config="true" signature="setEnv()[pri:0, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:50:19 IST" name="setEnv" finished-at="2023-02-28T17:50:31 IST" duration-ms="11715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnv -->
+        <test-method signature="Select_From_Ahmedabad_To_Pune()[pri:1, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:50:31 IST" name="Select_From_Ahmedabad_To_Pune" finished-at="2023-02-28T17:50:37 IST" duration-ms="5963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_From_Ahmedabad_To_Pune -->
+        <test-method signature="Select_Departure_date_as_1st_date_of_next_month()[pri:2, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:50:37 IST" name="Select_Departure_date_as_1st_date_of_next_month" finished-at="2023-02-28T17:50:39 IST" duration-ms="2770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Departure_date_as_1st_date_of_next_month -->
+        <test-method signature="Select_ADULTS2_CHILDREN1_INFANTS1()[pri:3, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:50:39 IST" name="Select_ADULTS2_CHILDREN1_INFANTS1" finished-at="2023-02-28T17:50:48 IST" duration-ms="8240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_ADULTS2_CHILDREN1_INFANTS1 -->
+        <test-method signature="Click_on_search()[pri:4, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:50:48 IST" name="Click_on_search" finished-at="2023-02-28T17:51:08 IST" duration-ms="20340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_on_search -->
+        <test-method signature="Verify_TripType_FROM_TO_DEPART_PASSENGERS_CLASS()[pri:5, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:51:08 IST" name="Verify_TripType_FROM_TO_DEPART_PASSENGERS_CLASS" finished-at="2023-02-28T17:51:10 IST" duration-ms="2334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_TripType_FROM_TO_DEPART_PASSENGERS_CLASS -->
+        <test-method signature="Filter_By_One_Way_Price_and_validate_all_flight_prices_are_between_that_range()[pri:6, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:51:10 IST" name="Filter_By_One_Way_Price_and_validate_all_flight_prices_are_between_that_range" finished-at="2023-02-28T17:51:17 IST" duration-ms="6655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter_By_One_Way_Price_and_validate_all_flight_prices_are_between_that_range -->
+        <test-method signature="Filter_by_Nonstop_and_validate_count()[pri:7, instance:dummy.Test1@4d5650ae]" started-at="2023-02-28T17:51:17 IST" name="Filter_by_Nonstop_and_validate_count" finished-at="2023-02-28T17:51:22 IST" duration-ms="4743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter_by_Nonstop_and_validate_count -->
+      </class> <!-- dummy.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

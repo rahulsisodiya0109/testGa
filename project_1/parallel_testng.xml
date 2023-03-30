@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="ProjectTestNG.Prog9_TestNG_Assertion"/>
+      <class name="ProjectTestNG.Prog9_TestNG_Assertion2_ExceptionHandling"/>
+      <class name="ProjectTestNG.Prog2_TestNG_AlphaNumericSequncing"/>
+      <class name="ProjectTestNG.Prog4_TestNG_SkipRepeat"/>
+      <class name="ProjectTestNG.Prog1_TestNG1"/>
+      <class name="ProjectTestNG.Prog5_TestNG_SkipRepeatPriority"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
